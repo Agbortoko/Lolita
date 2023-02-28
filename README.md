@@ -1,4 +1,4 @@
-# Lolita - PlayFul Cool and Awesome CSS Framework 
+# Lolita - Playful, Seductive Cool and Awesome CSS Framework 
 
 
  
